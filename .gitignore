@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# MacOS system files
+.DS_Store
+
+# Python environment
+*.env
+.env
+.env.*
+
+# Secret keys or credentials
+secrets.json
+config.json
+
+# Data cache / intermediate files
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.db
+*.sqlite
+*.h5
+*.parquet
+*.pkl
+*.joblib
+
+# Model weights or large binary files
+*.h5
+*.pt
+*.ckpt
+*.onnx
+*.tflite
+
+# Other
+*.zip
+*.tar.gz
+*.egg-info/
+dist/
+build/
